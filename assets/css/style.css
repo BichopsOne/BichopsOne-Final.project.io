@@ -1,0 +1,40 @@
+.navbar{
+    background-color: darkturquoise;
+   }
+   .logo_navbar{
+       height: 60px;
+   }
+   .parrafo-1{
+       color: #28a745;
+   }
+.formulario{
+    background-color: #28a745;
+    color: white;
+    
+}
+.img-footer{
+    width: 300px;
+}
+.card-title{
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+.derecha{
+    text-align: right;
+}
+.color{
+    background-color: darkturquoise;
+}
+body{
+    background-color: lightskyblue;
+}
+p{
+    color: black;
+    text-align: justify;
+    text-size-adjust: 20px;
+}
+.line {
+
+    list-style: ;
+}
